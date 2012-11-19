@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget xmlns="http://www.w3.org/ns/widgets" id="download-chrome-extension" version="1.0" defaultlocale="en" href="https://github.com/metude/download-chrome-extension/">
+  <name>Download Chrome Extension</name>
+  <author href="http://my.opera.com/metude/">metude (metude@myopera.com)</author>
+  <icon src="images/icon_64.png"/>
+  <feature name="opera:contextmenus" required="true"/>
+  <license href="http://www.opensource.org/licenses/mit-license.php">Licensed under the MIT license</license>
+  <description xml:lang="en">Download Google Chrome Extensions from Web Store. To use it go to chrome extension in web store and check right click menu.</description>
+  <description xml:lang="tr-TR">Google Chrome Uzantılarını Web Store'dan olarak indirin. Kullanmak için eklentinin Web Store sayfasında sağ-tık menüye bakın.</description>
+</widget>
